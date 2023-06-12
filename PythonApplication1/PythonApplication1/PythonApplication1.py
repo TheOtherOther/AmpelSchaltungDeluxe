@@ -1,0 +1,1 @@
+print("Rot,Gelb,Grün")
